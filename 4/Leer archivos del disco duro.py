@@ -18,6 +18,6 @@ agenda.write(telefono)
 agenda.write(",")
 agenda.write("\n")
 agenda.close()
-#ejerc = open("Documentos/prueba.txt")
-#print(ejerc.read())
+ejerc = open("Documentos/prueba.txt")
+print(ejerc.read())
 
