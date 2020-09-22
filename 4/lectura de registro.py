@@ -1,0 +1,7 @@
+agenda = open("/home/yulienis/DEV/aprendopython/4/agendatelefonica.csv")
+#print(agenda.read())
+print(agenda.readline())
+print(agenda.readline())
+print(agenda.readline())
+print(agenda.readline())
+print(agenda.readline())

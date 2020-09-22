@@ -4,8 +4,9 @@
 #texto = open("../doc/Hola.txt")
 #print(texto.read())
 
-#agenda = open("agendatelefonica.txt",'w')
-agenda = open("agendatelefonica.txt",'a')
+#agenda = open("agendatelefonica.csv",'w')
+#agenda = open("agendatelefonica.csv", 'a')
+agenda = open("/home/yulienis/DEV/aprendopython/4/agendatelefonica.csv", 'a')
 
 #agenda.truncate()
 nombre = input("Introdusca su nombre: ")
